@@ -11,6 +11,10 @@ Some of the higher resolutions might look a little wonky or have bad cropping. I
 
 Mobile is a WIP, if there's any interest in this I'll go through and make some available.
 
+## Releases
+
+All supported wallpaper packs can be found in `./releases`.
+
 ## Images Sourcing
 
 All images were sourced from the <a href="https://images.nasa.gov/">NASA image library</a>. 
