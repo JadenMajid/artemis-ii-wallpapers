@@ -15,5 +15,7 @@ Mobile is a WIP, if there's any interest in this I'll go through and make some a
 
 All images were sourced from the <a href="https://images.nasa.gov/">NASA image library</a>. 
 
-NASA's Usage guidelines can be <a href="https://www.nasa.gov/nasa-brand-center/">found here</a>
+I believe this project to be in line with NASA's Usage guidelines that can be <a href="https://www.nasa.gov/nasa-brand-center/">found here</a>.
+
+If not, please message me or create a github issue.
 
